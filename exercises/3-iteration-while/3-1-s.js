@@ -18,3 +18,4 @@ function drawShrinkingBars() {
         i++;
     }
 }
+
